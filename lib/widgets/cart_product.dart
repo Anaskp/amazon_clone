@@ -134,11 +134,10 @@ class _CartProductState extends State<CartProduct> {
                   children: [
                     DecoratedBox(
                       decoration: BoxDecoration(
-                        border: Border.symmetric(
-                          horizontal: BorderSide(
-                            color: (Colors.grey[500])!,
-                          ),
+                        border: Border.all(
+                          color: (Colors.grey[500])!,
                         ),
+                        borderRadius: BorderRadius.circular(10),
                       ),
                       child: Row(
                         children: [
