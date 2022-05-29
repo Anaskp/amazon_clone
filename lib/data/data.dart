@@ -140,7 +140,7 @@ final List<String> topCard = [
   'assets/bulb.jpg',
   'assets/oppo.jpg',
   'assets/hp.jpg',
-  'assets/churidar.jpeg',
+  'assets/pampers.jpg',
 ];
 
 final List<String> pocketFriendly = [
